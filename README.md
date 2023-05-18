@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there 👋
 
-solves complex problems while creating some of the most advanced applications in the industry. Communicates with other front-end developers within the company on best practices, new technologies. Excellent knowledge of HTML, CSS, Javascript, Bootstrap. Provides mentorship and supervise developers. Ensures the solution is scalable and meets overall business requirements. Guides technical teams to deliver flexible and scalable solutions.
+solves complex problems while creating some of the most advanced applications in the industry. Communicates with other front-end developers within the company on best practices, new technologies. Excellent knowledge of HTML, CSS, Javascript, Bootstrap, React. Provides mentorship and supervise developers. Ensures the solution is scalable and meets overall business requirements. Guides technical teams to deliver flexible and scalable solutions.
 
 
 # 💻 Tech Stack:
